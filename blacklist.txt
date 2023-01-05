@@ -1,6 +1,7 @@
 https://tr.highstar.shop:443/announce # detected by antivirus software
 http://btracker.top:11451/announce # detected by antivirus software
 https://tr.fuckbitcoin.xyz:443/announce # detected by antivirus software
+https://tracker.jiesen.life:8443/announce # detected by antivirus software
 http://bt-club.ws/announce # error
 http://open.touki.ru/announce.php # malfunction
 udp://anidex.moe:6969/announce # malfunction
@@ -277,4 +278,4 @@ http://tracker.frozen-layer.com:6969/announce # registered torrents
 https://t.btcland.xyz:443/announce # detected as suspicious
 https://tracker.lilithraws.cf:443/announce # duplicate of https://tracker.lilithraws.org:443/announce
 udp://www.torrent.eu.org:451/announce # duplicate of udp://tracker.torrent.eu.org:451/announce
-
+https://trackers.mlsub.net:443/announce # duplicate of https://tracker.mlsub.net:443/announce
