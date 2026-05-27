@@ -1,3 +1,5 @@
+http://nyaaplus.i2p:80/announce
+
 http://opentracker.dg2.i2p:80/a
 
 http://opentracker.eeptorrent.i2p:80/a
@@ -13,6 +15,8 @@ http://opentracker.skank.i2p:80/a
 http://qimlze77z7w32lx2ntnwkuqslrzlsqy7774v3urueuarafyqik5a.b32.i2p:80/a
 
 http://sigmatracker.i2p:80/a
+
+http://tracker.nyaa2p.i2p:80/announce
 
 udp://opentracker.simp.i2p:6969/a
 
